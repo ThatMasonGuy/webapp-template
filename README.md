@@ -52,6 +52,6 @@ Distributed under the GPL License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@That_MasonGuy](https://twitter.com/That_MasonGuy) - github@mxn.au
+Mason Bartholomai - [@That_MasonGuy](https://twitter.com/That_MasonGuy) - github@mxn.au
 
 Project Link: [https://github.com/ThatMasonGuy/webapp-template/](https://github.com/ThatMasonGuy/webapp-template/)
